@@ -6,7 +6,7 @@
 	<groupId>ai.turbochain.ipex</groupId>
 	<modelVersion>4.0.0</modelVersion>
     <artifactId>ipex-otc-core</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     
     <parent>
         <groupId>ai.turbochain.ipex</groupId>
@@ -84,7 +84,7 @@
         <dependency>
             <groupId>ai.turbochain.ipex</groupId>
             <artifactId>ipex-core</artifactId>
-            <version>1.0.4</version>
+            <version>1.0.5</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
